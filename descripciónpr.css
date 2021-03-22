@@ -88,4 +88,6 @@ body{
     .imagen{
         background-color: #fda2ef;
     }
-    
+    .img-big-wrap{
+        margin-left: 100px;
+    }
