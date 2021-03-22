@@ -21,7 +21,6 @@ margin-top: 0px;
     text-align: center;
     font-size: 2rem;
     color: black;
-    margin-right: 400px;
     font-family: 'Lato', sans-serif;
 }
 .row{
@@ -63,11 +62,6 @@ body{
    color: black;
     }
 
-    .precio{
-        font-size: 25px;
-        margin-left: 400px;
-        
-    }
     .container-fluid{
         background-color: #fda2ef;
     }

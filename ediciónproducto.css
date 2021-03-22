@@ -91,3 +91,6 @@ body{margin-top:0px;}
 .imagen{
     background-color: #fda2ef;
 }
+.col-xl-9.col-md-8 h2{
+    color: black;
+}
