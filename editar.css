@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.navbar{
+   justify-content: center;
+padding-top: 0%;
+}
+.nav a{
+    margin-right: 50px;
+}
+.color{
+    background: #fda2ef;
+    
+}
+.titulo{
+    text-align: center;
+    font-size: 2rem;
+    color: black;
+}
+.row{
+    margin-top: 40px;
+}
+.container-fluid{
+    background-color: #fda2ef;
+}
+
+.fondo{
+    background-color: #ede6f1;
+}
+.container-fluid{
+    background-color: #fda2ef;
+    
+    
+}
+
+.form-control {
+    width: 300px;
+    margin-left: 100px;
+}
+
+.form-group{
+    margin-left: 25px;
+}
+.texto{
+    margin-left: 20px;
+}
+.checkbox{
+    margin-left: 100px;
+}
+.btn.btn-default{
+    font-size: 25px;
+    font-style: oblique;
+    margin-left: 300px;
+}
+.input.ejemplo.password-1{
+    margin-left: 300px;
+
+}
+.text-center.p-3{
+    color: black;
+}
+.imagen{
+    background-color: #fda2ef;
+}
