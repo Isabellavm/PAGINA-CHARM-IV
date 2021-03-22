@@ -89,5 +89,8 @@ body{
         background-color: #fda2ef;
     }
     .img-big-wrap{
-        margin-left: 100px;
+        margin-left: 50px;
+    }
+    .gallery-wrap{
+        margin-left: 0px;
     }
